@@ -1,2 +1,3 @@
 # java-test
-some test classes I share with GPT
+
+Lorem ipsum dolor
